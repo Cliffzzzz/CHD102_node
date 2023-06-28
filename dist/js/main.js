@@ -1,0 +1,1 @@
+const x=10;function year(){console.log("ok")}const sum=(o,n)=>o+n;console.log(sum(10,20));
